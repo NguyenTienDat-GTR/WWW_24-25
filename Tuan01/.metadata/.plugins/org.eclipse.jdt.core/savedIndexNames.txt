@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\HOC\www\2024\ThucHanh\Tuan01\.metadata\.plugins\org.eclipse.jdt.core
+645869857.index
+1865797976.index
+1058245755.index

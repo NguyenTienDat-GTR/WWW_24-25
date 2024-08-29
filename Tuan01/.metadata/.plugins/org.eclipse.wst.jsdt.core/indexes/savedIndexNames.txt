@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\HOC\www\2024\ThucHanh\Tuan01\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1392587612.index
+3800552514.index
+4275857182.index
+645869857.index
+3663054645.index
+1304447276.index
+1995877186.index

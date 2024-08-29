@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Hello Servlet</h1>
+	<a href="hello">servlet</a>
+	<br>
+	<form action="login" method="post">
+		<input type="text" name="username" placeholder="username"><br>
+		<input type="password" name="password" placeholder="password"><br>
+		<input type="submit" value="login">
+	</form>
+	<br>
+	<br>
+	<br>
+	<form action="register" method="post">
+		<H2>REGISTER</H2>
+		NAME <input type="text" name="name" required="required"> <br> 
+		USERNAME <input type="text" name="username" required="required"> <br> 
+		EMAIL <input type="email"name="email" required="required"> <br> 
+		PASSWORD <input type="password"name="password" required="required"> <br> 
+		FACEBOOK <input type="email" name="fb" required="required"> <br> 
+		SHORT BIO <textarea name="sbio" required="required"></textarea> <br> 
+			<input type="submit" value="register"> <br>
+	</form>
+</body>
+</html>
