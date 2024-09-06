@@ -12,4 +12,17 @@
 		<welcome-file>default.jsp</welcome-file>
 		<welcome-file>default.htm</welcome-file>
 	</welcome-file-list>
+
+	<context-param>
+		<param-name>DBUrl</param-name>
+		<param-value>jdbc:sqlserver://localhost:1434;databaseName=UploadFileServletDB;encrypt=false</param-value>
+	</context-param>
+	<context-param>
+		<param-name>DBUser</param-name>
+		<param-value>sa</param-value>
+	</context-param>
+	<context-param>
+		<param-name>DBPassword</param-name>
+		<param-value>123456789</param-value>
+	</context-param>
 </web-app>
