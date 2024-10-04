@@ -1,0 +1,5 @@
+package com.fit.entity;
+
+public class User {
+
+}

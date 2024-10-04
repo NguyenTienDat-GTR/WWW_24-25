@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="person" method="post">
+
+	First Name:
+	<input type="text" name="fname">
+	<br> Last Name:
+	<input type="text" name="lname">
+	<br> Date of Birth:
+	<input type="date" name="birthdate">
+	<br> Email:
+	<input type="email" name="email">
+	<br> Mobile number:
+	<input type="tel" name="mobile">
+	<br> Gender:
+	<label> <input type="radio" name="gender" value="male">
+		Male
+	</label>
+	<label> <input type="radio" name="gender" value="female">
+		Female
+	</label>
+	<br> Address:
+	<textarea name="address"></textarea>
+	<br> City:
+	<input type="text" name="city">
+	<br> Pin code:
+	<input type="text" name="pincode">
+	<br> State:
+	<input type="text" name="state">
+	<br> Country:
+	<input type="text" name="country">
+	<br> Hobbies:
+	<label> <input type="checkbox" name="hobbies" value="reading">
+		Reading
+	</label>
+	<label> <input type="checkbox" name="hobbies" value="writing">
+		Writing
+	</label>
+	<label> <input type="checkbox" name="hobbies" value="singing">
+		Singing
+	</label>
+	<label> <input type="checkbox" name="hobbies" value="dancing">
+		Dancing
+	</label>
+	<br> Qualification:
+	<table>
+		<tr>
+			<th>Sl.No.</th>
+			<th>Examination</th>
+			<th>Board</th>
+			<th>Percentage</th>
+			<th>Year of Passing</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Class X</td>
+			<td><input type="text"   
+ maxlength="10" name="board"></td>
+			<td><input type="number"   
+ step="0.01" name="Percentage"></td>
+			<td><input type="text"></td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Class XII</td>
+			<td><input type="text" maxlength="10"></td>
+			<td><input type="number" step="0.01"></td>
+			<td><input type="text"></td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Graduation</td>
+			<td><input type="text" maxlength="10"></td>
+			<td><input type="number" step="0.01"></td>
+			<td><input type="text"></td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Masters</td>
+			<td><input type="text" maxlength="10"></td>
+			<td><input type="number" step="0.01"></td>
+			<td><input type="text"></td>
+		</tr>
+	</table>
+	<br> Course applies for:
+	<label> <input type="radio" name="course" value="BCA">
+		BCA
+	</label>
+	<label> <input type="radio" name="course" value="B.Com">
+		B.com
+	</label>
+	<label> <input type="radio" name="course" value="B.Sc">
+		B.Sc
+	</label>
+	<label> <input type="radio" name="course" value="B.A">
+		B.A
+	</label>
+	<br>
+	<input type="submit" value="Submit">
+</form>
+</body>
+</html>

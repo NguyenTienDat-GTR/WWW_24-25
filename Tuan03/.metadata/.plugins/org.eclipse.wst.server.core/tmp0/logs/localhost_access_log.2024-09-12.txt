@@ -1,0 +1,17 @@
+127.0.0.1 - - [12/Sep/2024:10:48:20 +0700] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:10:48:50 +0700] "GET /19473791_NguyenTienDat_week03/form_01.html HTTP/1.1" 200 2569
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:10:48:50 +0700] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:10:50:03 +0700] "POST /19473791_NguyenTienDat_week03/person HTTP/1.1" 500 4803
+127.0.0.1 - - [12/Sep/2024:10:52:31 +0700] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:10:52:37 +0700] "GET /19473791_NguyenTienDat_week03/form_01.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:10:52:57 +0700] "POST /19473791_NguyenTienDat_week03/person HTTP/1.1" 200 497
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:10:53:39 +0700] "POST /19473791_NguyenTienDat_week03/person HTTP/1.1" 200 508
+127.0.0.1 - - [12/Sep/2024:11:13:13 +0700] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:13:13 +0700] "GET /19473791_NguyenTienDat_week03/Signup.html HTTP/1.1" 200 880
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:13:42 +0700] "POST /19473791_NguyenTienDat_week03/signup HTTP/1.1" 200 170
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:13:59 +0700] "POST /19473791_NguyenTienDat_week03/signup HTTP/1.1" 200 266
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:14:25 +0700] "POST /19473791_NguyenTienDat_week03/signup HTTP/1.1" 200 266
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:14:29 +0700] "GET /19473791_NguyenTienDat_week03/Signup.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:14:46 +0700] "POST /19473791_NguyenTienDat_week03/signup HTTP/1.1" 200 270
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:14:55 +0700] "POST /19473791_NguyenTienDat_week03/signup HTTP/1.1" 200 170
+0:0:0:0:0:0:0:1 - - [12/Sep/2024:11:15:05 +0700] "POST /19473791_NguyenTienDat_week03/signup HTTP/1.1" 200 272
